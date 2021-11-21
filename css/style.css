@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+h2,
+h3 {
+  color: #a2416b;
+}
+
+footer {
+  padding: 20px;
+  color: white;
+  background-color: #a2416b;
+}
